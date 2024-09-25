@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Juan Manuel Ramallo
+	email = juanmanuelramallo@hey.com
+[core]
+	excludesfile = /Users/juanmanuel/.gitignore
